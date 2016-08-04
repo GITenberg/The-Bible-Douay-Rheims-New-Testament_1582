@@ -1,0 +1,38 @@
+_repo: The-Bible-Douay-Rheims-New-Testament_1582
+_version: 0.0.1
+description: New Testament is vol III of III. See also Complete (vol I-III) PG#8300
+  and  Complete version (vol I-III with Appendices) PG#1581 and OT (vol I) PG#1609
+  and OT (vol II) PG#1610
+edition_note: Challoner's revised Douay-Rheims Version (New Testament 1582). The Whole
+  Revised and Diligently Compared with the Latin Vulgate by Bishop Richard Challoner
+  A.D. 1749-1752
+gutenberg_issued: '1998-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1582'
+language: en
+publication_note: 'Murray, KY :  Catholic Software,  [1998]'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. New Testament'
+- !lcc 'BS'
+- GITenberg
+tableOfContents: 'The New Testament: Gospel According to St. Matthew -- Gospel According
+  to St. Mark -- Gospel According to St. Luke -- Gospel According to St. John -- Acts
+  of the Apostles -- Epistle of St. Paul to the Romans -- First Epistle of St. Paul
+  to the Corinthians -- Second Epistle of St. Paul to the Corinthians -- Epistle of
+  St. Paul to the Galatians -- Epistle of St. Paul to the Ephesians -- Epistle of
+  St. Paul to the Philippians -- Epistle of St. Paul to the Colossians -- First Epistle
+  of St. Paul to the Thessalonians -- Second Epistle of St. Paul to the Thessalonians
+  -- First Epistle of St. Paul to Timothy -- Second Epistle of St. Paul to Timothy
+  -- Epistle of St. Paul to Titus -- Epistle of St. Paul to Philemon -- Epistle of
+  St. Paul to the Hebrews -- Catholic Epistle of St. James the Apostle -- First Epistle
+  of St. Peter the Apostle -- Second Epistle of St. Peter the Apostle -- First Epistle
+  of St. John the Apostle -- Second Epistle of St. John the Apostle -- Third Epistle
+  of St. John the Apostle -- Catholic Epistle of St. Jude the Apostle -- Apocalypse
+  of St. John the Apostle -- Appendices: The Catholike Epistle of Iude the Apostle
+  -- The Preface to the Reader (selection from 1582 edition) -- Hard Wordes Explicated.'
+title: The Bible, Douay-Rheims, New Testament
+url: http://www.gutenberg.org/ebooks/1582
